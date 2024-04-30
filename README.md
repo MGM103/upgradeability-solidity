@@ -2,7 +2,7 @@
 
 ## About
 
-This project demonstrates the [UUPS upgradeability pattern](https://eips.ethereum.org/EIPS/eip-1822) for upgrading smart contracts. The codebase leverages contracts from [openzeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) to facilitate this design pattern.
+This project demonstrates the [UUPS upgradeability pattern](https://eips.ethereum.org/EIPS/eip-1822) for upgrading smart contracts. The codebase leverages contracts from [openzeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) to facilitate this design pattern. The proxy contract also adheres to the [ERC-1967 standard](https://eips.ethereum.org/EIPS/eip-1967) and uses an openzeppelin contract.
 
 ## Table of contents
 
